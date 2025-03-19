@@ -1,0 +1,50 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "project": "Project",
+    "skill": "Skill",
+    "contact": "Contact"
+  },
+  "Home": {
+    "name": "Hey, I'm Vaishakhi.I'm a Full",
+    "opentowrok": "Open to Work"
+  },
+  "About": {
+    "title": "About Me!",
+    "p1": "Hi, I’m Vaishakhi ArvindBhai Patel, a passionate and driven full stack developer with 3.5 years of hands-on experience in building web applications using React, Node.js, and Next.js. I specialize in creating seamless, scalable, and high-performance web solutions, ensuring an optimal user experience.My journey in full stack development has been shaped by my love for clean code and a focus on delivering efficient, maintainable, and user-friendly solutions.",
+    "p2": "My expertise lies in front-end development with React.js, as well as back-end development using Node.js to build full-stack applications. I’m proficient in using Next.js to create fast, SEO-friendly websites with server-side rendering and static site generation. I’ve also gained foundational experience with Angular, Python, and Vue.js, continuously expanding my toolkit and adapting to new technologies that best suit the needs of each project.",
+    "p3": "In addition to my core expertise, I have also worked with OpenAI APIs, integrating advanced AI-powered features into web applications. This has allowed me to leverage machine learning capabilities and offer intelligent, data-driven solutions to enhance user interactions and experiences.",
+    "p4": "Throughout my career, I’ve worked on a variety of projects ranging from small-scale applications to complex, high-traffic systems. I thrive in collaborative environments and enjoy solving complex problems with creative solutions. Whether working solo or as part of a team, I am committed to delivering quality work while staying current with industry trends and best practices.",
+    "p5": "I’m always eager to learn and grow as a developer, and I’m excited to take on new challenges to broaden my expertise further."
+  },
+  "Work": {
+    "title": "Work",
+    "c1": "Software Developer at"
+  },
+  "project": {
+    "title": "Projects",
+    "p1": {
+      "title": "WeSlides",
+      "description": "WeSlides is presentation software that uses artificial intelligence (AI) to help users create slides and presentations. The software allows users to turn ideas into complete slide decks by generating slides from prompts and importing bullet points. The software provides various pre-made templates and themes while enabling customization so users can create personalized presentations. Additionally, WeSlides is available on both desktop and mobile."
+    },
+    "p2": {
+      "title": "Digiconn",
+      "description": "An Employee Management System (EMS) is a comprehensive software solution designed to help Project Managers and CEOs efficiently track and manage employee performance, project assignments, and productivity. It centralizes employee information, including work hours, attendance, task progress, and team performance, providing real-time insights that help optimize team operations, improve decision-making, and ensure smooth project delivery. EMS helps managers make informed decisions, manage resources effectively, and streamline internal communications for better productivity across teams."
+    },
+    "p3": {
+      "title": "Digital Davos (Engaging Discussions on Global Issues)",
+      "description": "Digital Davos, is a platform where people can have discussions about important global issues. My main job was to create an easy-to-use and friendly design using Next.js and React.js. The platform allowed attendees to sign up, request to join discussions, and interact with others. I also added features like QR code check-in, attendee requests, and a community forum where users could engage with each other."
+    },
+     "p4": {
+      "title": "Handmerch",
+      "description": "Handmerch is an e-commerce platform developed as a clone of Etsy, allowing users to buy and sell handmade, vintage, and unique products. As a MERN stack developer, I led the development of a dynamic and responsive marketplace using Next.js for server-side rendering and performance optimization. The platform features real-time product updates, a user-friendly interface, secure payment processing, and an efficient order management system."
+    }
+  },
+   "skill":{
+    "title":"Skills"
+  },
+  "contact":{
+    "title":"Let's Connect!"
+  }
+}
