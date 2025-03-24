@@ -8,11 +8,11 @@ function Work() {
   return (
       <section id="work" className="w-full">
           <div className="max-w-3xl mx-auto mt-6">
-              <h1 className="mt-3 mb-10" style={{ marginBottom: 40 }}>
+              <h1 className="mt-3 mb-10 max-md:text-left" style={{ marginBottom: 40 }}>
                   {t("title")}
               </h1>
               <div className="relative w-full">
-                  <div className="absolute -left-10 top-0 w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center">
+                  <div className="max-md:relative absolute max-md:left-0 -left-10 top-0 w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center">
                       <FontAwesomeIcon icon={faBuilding} width={12} />
                   </div>
                   {/* Job Title and Date in One Row */}
@@ -35,7 +35,7 @@ function Work() {
                   </div>
               </div>
               <div className="relative w-full" style={{ marginTop: 40 }}>
-                  <div className="absolute -left-10 top-0 w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center">
+                  <div className="max-md:relative absolute max-md:left-0 -left-10 top-0 w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center">
                       <FontAwesomeIcon icon={faBuilding} width={12} />
                   </div>
                   {/* Job Title and Date in One Row */}

@@ -73,18 +73,18 @@ function Skill() {
     ]
 
     return (
-        <section id="skill">
-            <div className="p-3 flex-wrap gap-10 text-center max-md:text-left max-md:flex-col leading-7 space-y-6">
+        <section id="skill" className='w-full'>
+            <div className="p-3 flex-wrap w-full gap-10 text-center max-md:text-left max-md:flex-col leading-7 space-y-6">
                 <h1 className="mt-3 mb-10" style={{ marginBottom: 40 }}>
                     {t("title")}
                 </h1>
-                <div className="text-white grid grid-cols-10 gap-3 max-md:grid-cols-4 max-sm:grid-cols-3 max-[500px]:grid-cols-2">
+                <div className="text-white grid grid-cols-8 gap-4 max-md:grid-cols-4 max-sm:grid-cols-3 max-[500px]:grid-cols-2">
                     {skills.map((skill) => {
                         return (
                             <div key={skill.id} className="relative group">
                                 <button
                                     type="button"
-                                    className="border cursor-pointer border-light-gray/50 w-14 h-14 text-light-gray rounded-lg p-3 flex items-center justify-center relative overflow-hidden transition-all duration-300 hover:border-transparent hover:text-white"
+                                    className="border cursor-pointer border-gray-400 w-full h-20 text-light-gray rounded-lg p-3 flex items-center justify-center relative overflow-hidden transition-all duration-300 hover:border-transparent hover:text-white"
                                 >
                                     <div className="absolute inset-0 rounded-lg bg-gradient-to-r from-blue-500 to-purple-500 transform scale-0 group-hover:scale-100 transition-transform duration-300"></div>
                                     <img

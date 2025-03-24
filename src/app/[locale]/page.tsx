@@ -10,7 +10,8 @@ import Skills from "./pages/Skill";
 
 export default function Home() {
   return (
-    <div>
+    <div className="h-full w-full mx-auto max-w-[65rem] p-6">
+      {/* <div> */}
       <Navbar />
       <HomeSection />
       <About />

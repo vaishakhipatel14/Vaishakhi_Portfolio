@@ -61,7 +61,7 @@ h1 span {
 
 /* Open to Work Badge */
 .open-to-work-badge {
-    position: absolute;
+    /* position: absolute; */
     right: 0;
     bottom: 5px;
     /* Adjust the bottom distance to 5px */
@@ -129,6 +129,7 @@ h1 span {
 .social{
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
 
 .sticky-social {
