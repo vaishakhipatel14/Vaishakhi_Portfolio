@@ -39,10 +39,13 @@ import xingImg from '../assets/images/xing-icon-logo-svgrepo-com.svg'
 
 import Picoftheyear from '../assets/images/passport size .png';
 
-import weslide from '../assets/images/weslide.jpg';
-import digiconn from '../assets/images/digiconn-Photoroom.png';
-import digitaldavos from '../assets/images/digitaldavos.svg';
-import handmerge from '../assets/images/handmerge.jpg';
+import weslide from '../assets/images/WeSlide.png';
+import digiconn from '../assets/images/WeSlide.png';
+import digitaldavos from '../assets/images/handmerch.webp';
+import handmerge from '../assets/images/handmerch.webp';
+
+// import weslidebanner from '../assets/images/WeSlide.png';
+// import handmerch from '../assets/images/handmerch.webp';
 
 
 export {

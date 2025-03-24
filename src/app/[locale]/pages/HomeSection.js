@@ -27,7 +27,7 @@ function HomeSection() {
           </div>
           {/* Text Section */}
           <div className="flex flex-col items-start gap-6">
-            <h1 className="text-light-gray font-bold text-[28px] tracking-[0.03em] relative text-left">
+            <h1 className="text-light-gray font-bold text-[28px] tracking-[0.03em] relative text-left max-md:text-center">
               <span className="text-white">
                 {t("name")}
                 <br />
@@ -40,7 +40,7 @@ function HomeSection() {
               </div>
             </h1>
             {/* Location and Social Links */}
-            <div className="w-full flex items-center justify-between max-md:flex-col max-md:gap-3">
+            <div className="w-full flex items-center max-md:items-center justify-between max-md:flex-col max-md:gap-3">
               {/* Location Info */}
               <a
                 target="_blank"
@@ -50,10 +50,10 @@ function HomeSection() {
                 🏠 Frankfurt am Main, Germany.
               </a>
               {/* Social Links */}
-              <div className="w-full flex items-center justify-end max-md:justify-center gap-5 text-base text-light-gray">
+              <div className="w-full flex items-center max-md:items-center justify-center gap-5 text-base text-light-gray">
                 <a
                   target="_blank"
-                  className="ml-2 flex gap-1 items-center hover:text-white"
+                  className="ml-2 max-md:ml-0 flex gap-1 items-center hover:text-white"
                   href="https://www.linkedin.com/in/vaishakhi-patel-148086141/"
                 >
                   <Image
