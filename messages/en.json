@@ -2,6 +2,7 @@
   "Navbar": {
     "home": "Home",
     "about": "About",
+    "work": "Work",
     "project": "Project",
     "skill": "Skill",
     "contact": "Contact"
@@ -20,7 +21,9 @@
   },
   "Work": {
     "title": "Work",
-    "c1": "Software Developer at"
+    "c1": "Software Developer",
+    "itaims":"As a Software Developer at a startup, I've worked on projects using React, Node.js, Jitsi, Socket.io, and GraphQL. I've contributed to building web apps from scratch, focusing on real-time communication, efficient data fetching, and UI optimization. These experiences have helped me grow my technical skills in a fast-paced startup environment.",
+    "Manektech":"At ManekTech, I deepened my knowledge as a Software Developer, working closely with a team on various projects. Through collaborative efforts, I gained clients' trust, received appreciation for my work, and contributed to the successful delivery of multiple projects."
   },
   "project": {
     "title": "Projects",
@@ -30,7 +33,7 @@
     },
     "p2": {
       "title": "Digiconn",
-      "description": "An Employee Management System (EMS) is a comprehensive software solution designed to help Project Managers and CEOs efficiently track and manage employee performance, project assignments, and productivity. It centralizes employee information, including work hours, attendance, task progress, and team performance, providing real-time insights that help optimize team operations, improve decision-making, and ensure smooth project delivery. EMS helps managers make informed decisions, manage resources effectively, and streamline internal communications for better productivity across teams."
+      "description": "An Employee Management System (EMS) is a software solution that helps Project Managers and CEOs efficiently track employee performance, project assignments, and productivity. It centralizes key data such as work hours, attendance, task progress, and team performance. EMS provides real-time insights to optimize team operations and improve decision-making. This ensures smooth project delivery and effective resource management."
     },
     "p3": {
       "title": "Digital Davos (Engaging Discussions on Global Issues)",

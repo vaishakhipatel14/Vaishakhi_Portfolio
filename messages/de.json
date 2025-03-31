@@ -2,6 +2,7 @@
   "Navbar": {
     "home": "Startseite",
     "about": "Über",
+    "work": "Arbeit",
     "project": "Projekt",
     "skill":"Fertigkeit",
     "contact":"Kontakt"
@@ -20,7 +21,9 @@
   },
   "Work":{
     "title":"Arbeit",
-    "c1":"Software-Entwickler bei"
+    "c1":"Software-Entwickler",
+     "itaims":"Als Softwareentwickler bei einem Startup habe ich an Projekten mit React, Node.js, Jitsi, Socket.io und GraphQL gearbeitet. Ich habe dazu beigetragen, Web-Apps von Grund auf zu entwickeln und mich dabei auf Echtzeitkommunikation, effizientes Abrufen von Daten und Optimierung der Benutzeroberfläche konzentriert. Diese Erfahrungen haben mir geholfen, meine technischen Fähigkeiten in einer schnelllebigen Startup-Umgebung auszubauen.",
+    "Manektech":"Bei ManekTech habe ich meine Kenntnisse als Softwareentwickler vertieft und in enger Zusammenarbeit mit einem Team an verschiedenen Projekten gearbeitet. Durch die Zusammenarbeit konnte ich das Vertrauen der Kunden gewinnen, erhielt Wertschätzung für meine Arbeit und trug zur erfolgreichen Durchführung mehrerer Projekte bei."
   },
    "project": {
     "title": "Projekte",
@@ -30,10 +33,10 @@
     },
     "p2": {
       "title": "Digiconn",
-      "description": "Ein Mitarbeiterverwaltungssystem (EMS) ist eine umfassende Softwarelösung, die Projektmanagern und Geschäftsführern hilft, die Leistung ihrer Mitarbeiter, Projektaufgaben und Produktivität effizient zu verfolgen und zu verwalten. Es zentralisiert Mitarbeiterinformationen, einschließlich Arbeitsstunden, Anwesenheit, Aufgabenfortschritt und Teamleistung, und bietet Echtzeit-Einblicke, die zur Optimierung der Teamabläufe, zur Verbesserung der Entscheidungsfindung und zur Gewährleistung einer reibungslosen Projektabwicklung beitragen. EMS hilft Managern, fundierte Entscheidungen zu treffen, Ressourcen effektiv zu verwalten und die interne Kommunikation zu optimieren, um die Produktivität von Teams zu steigern."
+      "description": "Ein Mitarbeiterverwaltungssystem (EMS) ist eine Softwarelösung, die Projektmanagern und Geschäftsführern hilft, die Leistung ihrer Mitarbeiter, Projektaufgaben und Produktivität effizient zu verfolgen. Es zentralisiert Schlüsseldaten wie Arbeitsstunden, Anwesenheit, Aufgabenfortschritt und Teamleistung. EMS bietet Echtzeit-Einblicke zur Optimierung der Teamabläufe und zur Verbesserung der Entscheidungsfindung. Dies gewährleistet eine reibungslose Projektabwicklung und ein effektives Ressourcenmanagement."
     },
     "p3": {
-      "title": "Digital Davos (Engaging Discussions on Global Issues)",
+      "title": "Digital Davos (Engagierte Diskussionen über globale Themen)",
       "description": "Digital Davos ist eine Plattform, auf der Menschen Diskussionen über wichtige globale Themen führen können. Meine Hauptaufgabe bestand darin, ein benutzerfreundliches Design mit Next.js und React.js zu erstellen. Die Plattform ermöglichte es den Teilnehmern, sich anzumelden, die Teilnahme an Diskussionen zu beantragen und mit anderen zu interagieren. Außerdem fügte ich Funktionen wie QR-Code-Check-in, Teilnehmeranfragen und ein Community-Forum hinzu, in dem sich die Nutzer untereinander austauschen konnten."
     },
      "p4": {

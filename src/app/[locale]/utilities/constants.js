@@ -37,16 +37,12 @@ import linkedinImg from '../assets/images/linkedin-icon.svg'
 import githubImg from '../assets/images/icons8-github.svg'
 import xingImg from '../assets/images/xing-icon-logo-svgrepo-com.svg'
 
-import Picoftheyear from '../assets/images/passport size .png';
+import Picoftheyear from '../assets/images/Vaishakhi_IMG.jpg';
 
 import weslide from '../assets/images/WeSlide.png';
-import digiconn from '../assets/images/WeSlide.png';
-import digitaldavos from '../assets/images/handmerch.webp';
+import digiconn from '../assets/images/localhost_3001_dashboard.png';
+import digitaldavos from '../assets/images/digitalswitzerland.com_exploring-trust-and-innovation-a-focus-on-ai-and-digital-infrastructure-at-davos-2025_.png';
 import handmerge from '../assets/images/handmerch.webp';
-
-// import weslidebanner from '../assets/images/WeSlide.png';
-// import handmerch from '../assets/images/handmerch.webp';
-
 
 export {
     reactimg,

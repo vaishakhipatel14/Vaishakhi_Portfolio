@@ -18,8 +18,9 @@ function Projects() {
                 { name: 'Tailwind', icon: Images.tailwindimg },
                 { name: 'Socket.IO', icon: Images.socketimg },
                 { name: 'Node.js', icon: Images.nodeimg },
-                { name: 'PostgreSQL', icon: Images.postgresqlimg },
+                { name: 'MongoDb', icon: Images.mongodbimg },
                 { name: 'Redux', icon: Images.reduximg },
+                { name: 'Jest', icon: Images.jestimg },
             ]
         },
         {
@@ -29,12 +30,13 @@ function Projects() {
             description: t("p2.description"),
             skills: [
                 { name: 'React', icon: Images.reactimg },
-                { name: 'TypeScript', icon: Images.typescriptimg },
-                { name: 'Tailwind', icon: Images.tailwindimg },
+                { name: 'Javascript', icon: Images.javascriptimg },
+                { name: 'AntDesign', icon: Images.antimg },
                 { name: 'Socket.IO', icon: Images.socketimg },
                 { name: 'Node.js', icon: Images.nodeimg },
-                { name: 'PostgreSQL', icon: Images.postgresqlimg },
+                { name: 'GraphQl', icon: Images.graphqlimg },
                 { name: 'Redux', icon: Images.reduximg },
+                { name: 'Jest', icon: Images.jestimg },
             ]
         },
         {
@@ -43,13 +45,14 @@ function Projects() {
             image: Images.digitaldavos,
             description: t("p3.description"),
             skills: [
-                { name: 'React', icon: Images.reactimg },
+                { name: 'NextJs', icon: Images.nextimg },
                 { name: 'TypeScript', icon: Images.typescriptimg },
                 { name: 'Tailwind', icon: Images.tailwindimg },
                 { name: 'Socket.IO', icon: Images.socketimg },
                 { name: 'Node.js', icon: Images.nodeimg },
                 { name: 'PostgreSQL', icon: Images.postgresqlimg },
                 { name: 'Redux', icon: Images.reduximg },
+                { name: 'Docker', icon: Images.dockerimg },
             ]
         },
         {
@@ -58,13 +61,14 @@ function Projects() {
             image: Images.handmerge,
             description: t("p4.description"),
             skills: [
-                { name: 'React', icon: Images.reactimg },
+                { name: 'NextJs', icon: Images.nextimg },
                 { name: 'TypeScript', icon: Images.typescriptimg },
                 { name: 'Tailwind', icon: Images.tailwindimg },
                 { name: 'Socket.IO', icon: Images.socketimg },
-                { name: 'Node.js', icon: Images.nodeimg },
-                { name: 'PostgreSQL', icon: Images.postgresqlimg },
+                { name: 'NestJs', icon: Images.nestimg },
+                { name: 'GraphQl', icon: Images.graphqlimg },
                 { name: 'Redux', icon: Images.reduximg },
+                { name: 'Jest', icon: Images.jestimg },
             ]
         }
     ];

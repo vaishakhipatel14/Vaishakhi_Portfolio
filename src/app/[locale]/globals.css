@@ -39,6 +39,11 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
+.text-light-gray {
+  --tw-text-opacity: 1;
+  color: rgb(168 173 178 / var(--tw-text-opacity, 1));
+}
+
 
 * {
   box-sizing: border-box;

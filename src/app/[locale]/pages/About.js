@@ -11,19 +11,19 @@ function About() {
           {t("title")}
         </h1>
         <div className="text-left mt-6 grid gap-6">
-          <p className='text-gray-200'>
+          <p className='text-light-gray'>
             {t("p1")}
           </p>
-          <p className='text-gray-200'>
+          <p className='text-light-gray'>
             {t("p2")}
           </p>
-          <p className='text-gray-200'>
+          <p className='text-light-gray'>
             {t("p3")}
           </p>
-          <p className='text-gray-200'>
+          <p className='text-light-gray'>
             {t("p4")}
           </p>
-          <p className='text-gray-200'>
+          <p className='text-light-gray'>
             {t("p5")}
           </p>
         </div>
