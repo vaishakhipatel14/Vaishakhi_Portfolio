@@ -7,17 +7,9 @@ export const routing = defineRouting({
 
   // Used when no locale matches
   defaultLocale: "en",
-  pathnames: {
-    "/contact": {
-      en: "/contact-me",
-      de: "/kontaktiere-mich",
-    },
-  },
 });
 
-// Lightweight wrappers around Next.js' navigation APIs
-// that will consider the routing configuration
-export type Locale = "en" | "de"; // Ensure this is correct
+export type Locale = (typeof routing.locales)[number];
 
 export const { Link, redirect, usePathname, useRouter } =
   createNavigation(routing);
