@@ -1,4 +1,4 @@
-import { Locale, routing } from "@/i18n/routing";
+import {  Locale, routing } from "@/i18n/routing";
 import type { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
@@ -26,11 +26,11 @@ export default async function RootLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: { locale: Locale };
+  params: { locale: "en" | "de" }; // Explicit type
 }) {
-  const locale = params.locale;
+  const { locale } = params; // Destructure for cleaner code
 
-  if (!routing.locales.includes(locale)) {
+  if (!routing.locales.includes(locale as Locale)) {
     notFound();
   }
 
