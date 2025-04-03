@@ -32,6 +32,7 @@
     list-style: none;
     display: flex;
     gap: 20px;
+    
 }
 
 .nav-links li {
@@ -53,6 +54,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+    cursor: pointer;
 }
 
 .nav-links li.active button{
